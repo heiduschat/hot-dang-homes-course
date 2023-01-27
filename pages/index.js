@@ -25,7 +25,8 @@ export const getStaticProps = async () => {
         }
       }
     `
-  })
+  });
+
   const blocks = cleanAndTransformBlocks(data.nodeByUri.blocksJSON)
   return {
     props: {
