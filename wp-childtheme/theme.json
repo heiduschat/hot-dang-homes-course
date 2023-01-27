@@ -129,12 +129,12 @@
       "palette": [
         {
           "slug": "foreground",
-          "color": "#000000",
+          "color": "canvastext",
           "name": "Foreground"
         },
         {
           "slug": "background",
-          "color": "#ffffff",
+          "color": "canvas",
           "name": "Background"
         },
         {
